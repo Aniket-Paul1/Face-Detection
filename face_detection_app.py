@@ -60,4 +60,3 @@ while choose:
         print("Invalid Choose...")
         break
     choose = input("Enter a number")
-
